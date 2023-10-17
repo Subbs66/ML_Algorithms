@@ -7,4 +7,4 @@ Data consists of all the datasets used and the exact question statements(pdf) fe
 
 Code consists of all the code depicting Algorithms ( In Python ) (.ipynb format )
 
-Reports consits of all the oututs ( including graphs if any )
+Reports consits of all the outputs ( including graphs if any )
